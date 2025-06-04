@@ -1,0 +1,1492 @@
+area_size;sunlight_need;environment_type;climate_type;fertilizer_frequency;pesticide_frequency;has_pet;has_child;suggested_plant;user_feedback;id;watering_frequency
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Acacia;1;1;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Acalypha;1;2;Bi-weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Acanthus;1;3;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Achillea (Yarrow);1;4;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Acorn Squash;0;5;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;African Violet;0;6;Daily
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;African Violet;1;7;Daily
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Ageratum;1;8;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Aglaonema (Chinese Evergreen);1;9;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Air Plant (Tillandsia);1;10;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Alocasia (Elephant Ear);1;11;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Aloe Vera;1;12;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Alstroemeria;1;13;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Aluminum Plant;1;14;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Alyssum;1;15;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Amaltas (Golden Shower);1;16;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Amaranth;1;17;Monthly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Amaryllis;1;18;Daily
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Amaryllis;0;19;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Anemone;1;20;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Angelonia;0;21;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Anigozanthos (Kangaroo Paw);0;22;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Anthurium;1;23;Every 2-3 days
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Apple Tree;0;24;Weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Aquilegia (Columbine);1;25;Bi-weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Never needed;No;No;Areca Palm;1;26;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Armeria (Thrift);1;27;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Arum Lily;1;28;Monthly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Asparagus Fern;1;29;Daily
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Aster;1;30;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Astilbe;1;31;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Azalea;1;32;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Aztec Lily;0;33;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Baby Tears;0;34;Monthly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Baby Tears;1;35;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bachelorâ??S Button;1;36;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Balloon Flower;1;37;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Balsam;0;38;Bi-weekly
+Large;Bright indirect light;Semi-outdoor;All seasons;Monthly;Never needed;No;No;Bamboo;1;39;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Bamboo Orchid;0;40;Every 2-3 days
+Small;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Bamboo Palm;1;41;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Banana Plant;1;42;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Banyan Tree (Bargad);1;43;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Barberry;1;44;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Never needed;Never needed;No;Yes;Barrel Cactus;0;45;Daily
+Mini;6+ hours;Semi-outdoor;Summer;1-2 times a year;1-2 times a year;No;No;Basil;1;46;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bay Laurel;1;47;Weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Bearded Iris;1;48;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Bee Balm;1;49;Every 2-3 days
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Beetroot;1;50;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Begonia (Outdoor);1;51;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Bellflower;1;52;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Ber Tree (Indian Jujube);1;53;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Bergamot;1;54;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Bigleaf Hydrangea;0;55;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Bird's Nest Fern;1;56;Monthly
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Black Currant;1;57;Daily
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Black-Eyed Susan;1;58;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Blackcurrant;0;59;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Blanket Flower;1;60;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Blazing Star;1;61;Bi-weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Bleeding Heart;1;62;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Bloodroot;1;63;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Bluebell;1;64;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Bok Choy;1;65;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Borage;1;66;Monthly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;No;No;Boston Fern;1;67;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Bougainvillea;1;68;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Brachychiton (Bottle Tree);1;69;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Brassica;1;70;Bi-weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Bromeliad;1;71;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Buckwheat;1;72;Monthly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Butternut Squash;0;73;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cabbage;1;74;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Cabbage Palm;1;75;Daily
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cactus;0;76;Bi-weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;No;Yes;Cactus (Various);1;77;Weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;No;Yes;Cactus (Various);0;78;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Caladium;1;79;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Calathea;1;80;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Calendula;1;81;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;California Poppy;1;82;Bi-weekly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Calla Lily;1;83;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Camelina;0;84;Monthly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Camellia;1;85;Weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Campanula;1;86;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Cananga (Ylang-Ylang);0;87;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Candytuft;0;88;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Canna Lily;1;89;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Carnation;0;90;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Carob Tree;1;91;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Carrot;1;92;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Carrot Plant;1;93;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;No;No;Cast Iron Plant;1;94;Monthly
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Cat Grass;1;95;Every 2-3 days
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Catmint;1;96;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Catnip;1;97;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cestrum;0;98;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Chamomile;1;99;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chayote;1;100;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cherry Blossom;1;101;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Chestnut;1;102;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Chili Pepper;0;103;Monthly
+Medium;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Chinese Evergreen;0;104;Weekly
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Chinese Lantern Plant;1;105;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Chinese Money Plant;1;106;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Chives;1;107;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;1-2 times a year;Never needed;No;No;Christmas Cactus;1;108;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chrysanthemum;1;109;Daily
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Chrysanthemum (Outdoor);1;110;Monthly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Cilantro;1;111;Bi-weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Cineraria;1;112;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Clematis;1;113;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Clementine;1;114;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Clivia;0;115;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Clove;0;116;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Never needed;1-2 times a year;No;No;Clover;1;117;Daily
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Cockscomb (Celosia);0;118;Daily
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Cocoa Tree;1;119;Bi-weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Coleus;1;120;Monthly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Coltsfoot;1;121;Bi-weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Columbine;1;122;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Coneflower;1;123;Weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Coral Bells;1;124;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Coreopsis;1;125;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Corn;1;126;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cornflower;1;127;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Cosmos;1;128;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cress;1;129;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Crocus;1;130;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Croton;1;131;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Crown of Thorns;0;132;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cucumber;0;133;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cucumbers;1;134;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Currant;0;135;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Cyclamen;0;136;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Cyclamen;1;137;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Daffodil;1;138;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Daffodils;1;139;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Dahlia;1;140;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Daisy;1;141;Weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Daisy Fleabane;0;142;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Dandelion;1;143;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Date Palm;1;144;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Date Palm (Khajoor);1;145;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Daylily;0;146;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Devil?S Ivy;1;147;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Dianella;1;148;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Dianthus;1;149;Weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Dieffenbachia;1;150;Bi-weekly
+Medium;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Dill;1;151;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Dogwood Tree;1;152;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Dracaena;1;153;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Dragon Fruit;0;154;Bi-weekly
+Large;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Dragonfruit Cactus;0;155;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Dusty Miller;1;156;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Echeveria;1;157;Weekly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Echeveria;0;158;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Echinacea;1;159;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Eggplant;0;160;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Elderberry;1;161;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Elderflower;1;162;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Engelmann Spruce;1;163;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;English Ivy;1;164;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Epazote;1;165;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Eucalyptus;1;166;Daily
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Euphorbia;0;167;Bi-weekly
+Medium;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Fairy Lantern;1;168;Every 2-3 days
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Fennel;1;169;Weekly
+Medium;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Fern (Boston Fern);0;170;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Fern (Boston);0;171;Daily
+Small;Bright indirect light;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Fern (Maidenhair);0;172;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Feverfew;1;173;Weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;Monthly;Yes;Yes;Ficus Benjamina;0;174;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Ficus Microcarpa;1;175;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Ficus Tree;0;176;Weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;Monthly;No;No;Fiddle Leaf Fig;1;177;Daily
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Fig Tree;0;178;Bi-weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Foxglove;1;179;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Fritillaria;0;180;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Fuchsia;1;181;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Galangal;0;182;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Galax;0;183;Every 2-3 days
+Mini;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;No;Gardenia;1;184;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Gazania;1;185;Bi-weekly
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Geranium;1;186;Daily
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Gerbera Daisy;0;187;Weekly
+Medium;Bright indirect light;Semi-outdoor;Summer;Monthly;Never needed;No;No;Ginger;1;188;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Ginkgo;1;189;Daily
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Globe Thistle;1;190;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Golden Pothos;1;191;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Goldenrods;1;192;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Goldenseal;0;193;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Grape Hyacinth;1;194;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Grape Vine;1;195;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Green Bean;1;196;Bi-weekly
+Large;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Guar;1;197;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Guava;0;198;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Gul Mohar (Flame Tree);1;199;Monthly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Gumwood Tree;1;200;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Haworthia;1;201;Daily
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Helenium;1;202;Weekly
+Medium;6+ hours;Indoor;Spring;Never needed;Monthly;No;No;Heliopsis;0;203;Every 2-3 days
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Heliotrope;1;204;Bi-weekly
+Small;6+ hours;Semi-outdoor;All seasons;Never needed;Never needed;No;No;Hen and Chicks;1;205;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Henbane;0;206;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Heracleum (Cow Parsnip);1;207;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Hibiscus;1;208;Monthly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Holly;1;209;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Hollyhock;1;210;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Hops;0;211;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Hops Vine;1;212;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Hosta;1;213;Weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Hoya (Wax Plant);1;214;Monthly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Hummingbird Sage;0;215;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Hyacinth;1;216;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ice Plant;0;217;Bi-weekly
+Mini;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Impatiens;1;218;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Indian Cress;0;219;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Indian Grass;0;220;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Iris;0;221;Weekly
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Ironwood;0;222;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Islander (Agave);1;223;Bi-weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;Never needed;Yes;Yes;Ivy;1;224;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Ixia;1;225;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Jacaranda;1;226;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Jackfruit;1;227;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Jade Plant;1;228;Monthly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Jade Pothos;1;229;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Japanese Anemone;0;230;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Japanese Maple;1;231;Monthly
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;No;No;Jasmine;1;232;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Jasmine (Indoor);1;233;Every 2-3 days
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Jasmine (Outdoor);1;234;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Jatropha;1;235;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Jerusalem Artichoke;1;236;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Kalanchoe;1;237;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Kangaroo Paw Fern;0;238;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Kangaroo Paw Fern;1;239;Daily
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Kikar Tree (Acacia);1;240;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Kiwi;1;241;Every 2-3 days
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Kiwi Vine;1;242;Bi-weekly
+Small;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Knautia;1;243;Bi-weekly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;Never needed;No;No;Lacandonian;0;244;Monthly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lady'S Mantle;1;245;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Never needed;Monthly;No;No;Laelia Orchid;0;246;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Lamb'S Ear;1;247;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Lantana;0;248;Bi-weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Larkspur;1;249;Weekly
+Medium;6+ hours;Outdoor;Summer;1-2 times a year;Never needed;No;No;Lavender;1;250;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Lavender (English);1;251;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Lavender (French);0;252;Bi-weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Lemon Balm;1;253;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lemon Grass;1;254;Monthly
+Large;6+ hours;Semi-outdoor;Spring;Monthly;Monthly;No;No;Lemon Tree;1;255;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Lemongrass;1;256;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Liatris;0;257;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ligustrum;1;258;Daily
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lilac;1;259;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lilac Bush;1;260;Monthly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lilac Tree;1;261;Weekly
+Small;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lily Of The Valley;1;262;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Lipstick Plant;0;263;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Lipstick Plant;1;264;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Litchi;1;265;Bi-weekly
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Lobelia;1;266;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lotus;0;267;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Lotus Bamboo;1;268;Weekly
+Small;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Lucky Bamboo;1;269;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Luffa;1;270;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lupine;1;271;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Lychee;1;272;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Magnolia;1;273;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Maidenhair Fern;0;274;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Maidenhair Fern;1;275;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Majesty Palm;1;276;Every 2-3 days
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Majesty Palm;0;277;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Mallow;1;278;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Malva (Mallow);1;279;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Mandevilla;0;280;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Mango;0;281;Bi-weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Maranta (Prayer Plant);1;282;Monthly
+Small;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Marigold;1;283;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Marigold (African);1;284;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;Never needed;No;No;Marjoram;1;285;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Mayapple;1;286;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Mimosa;1;287;Monthly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Mint;1;288;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Money Plant;1;289;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Money Tree;1;290;Daily
+Medium;Bright indirect light;Indoor;Winter;Never needed;Monthly;No;No;Monstera;1;291;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;No;No;Monstera Deliciosa;1;292;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Moringa;1;293;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Morning Glory;1;294;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Mulberry;0;295;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Mustard;1;296;Bi-weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Nandina (Heavenly Bamboo);0;297;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Nasturtium;1;298;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Nectarine;1;299;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Neem Tree;1;300;Bi-weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Neoregalia (Bromeliad);1;301;Monthly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Nerve Plant (Fittonia);1;302;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Nettle;1;303;Bi-weekly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;No;No;Norfolk Island Pine;1;304;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Nutmeg;1;305;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Olive Tree;1;306;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Orchid (Phalaenopsis);1;307;Daily
+Large;Bright indirect light;Indoor;Summer;Never needed;Monthly;No;No;Orchid (Vanilla);1;308;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Orchid Cactus;1;309;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Orchids;1;310;Weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Oregano;1;311;Daily
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Pansy;1;312;Every 2-3 days
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Parlor Palm;1;313;Bi-weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Parsley;1;314;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Passionflower;1;315;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Peace Lily;1;316;Daily
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Peepal Tree;0;317;Monthly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Peepal Tree (Bodhi Tree);1;318;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Peony;1;319;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Peperomia;1;320;Weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Pepper Plant;1;321;Bi-weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Periwinkle;1;322;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Petunia;1;323;Daily
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Petunia (Trailing);1;324;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Philodendron;0;325;Monthly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Philodendron;1;326;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Phlox;1;327;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Pilea;1;328;Daily
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Pine;1;329;Daily
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Pineapple;1;330;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Pineapple Sage;1;331;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Plumeria;1;332;Bi-weekly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;Yes;Poinsettia;0;333;Every 2-3 days
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;Yes;Poinsettia;1;334;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Polka Dot Begonia;0;335;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Polka Dot Begonia;1;336;Every 2-3 days
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Polka Dot Plant;1;337;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Pomegranate;1;338;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Ponytail Palm;0;339;Daily
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Ponytail Palm;1;340;Daily
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Poppy;1;341;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Portulaca;1;342;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Potato Vine;1;343;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Pothos;1;344;Bi-weekly
+Small;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Pothos (Devil's Ivy);1;345;Daily
+Small;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Pothos (Devil's Ivy);0;346;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Pothos (Golden Pathos);1;347;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Prayer Pepper;1;348;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Prayer Plant (Maranta);1;349;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Protea;1;350;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Purslane;1;351;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Quaking Aspen;1;352;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Quince;1;353;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Quinoa;0;354;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Radish;0;355;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Raspberry;1;356;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Rattlesnake Plant;1;357;Daily
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Red Hot Poker (Kniphofia);0;358;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Red Maple;1;359;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Red-Leafed Maple;1;360;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Redwood;1;361;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Rex Begonia;1;362;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Rhododendron;1;363;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;River Birch;1;364;Monthly
+Medium;6+ hours;Outdoor;Spring;Monthly;Monthly;No;Yes;Rose;1;365;Monthly
+Medium;6+ hours;Outdoor;Spring;Monthly;Monthly;No;Yes;Rose;0;366;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Rose Of Sharon;1;367;Monthly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Rosemary;1;368;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Summer;Never needed;Never needed;No;No;Rosemary Mint;0;369;Bi-weekly
+Medium;Bright indirect light;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;Yes;Rubber Plant;1;370;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Rudbeckia;1;371;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Russian Sage;1;372;Bi-weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Sage;1;373;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Sago Palm;0;374;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Salvia;1;375;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Scabiosa (Pincushion Flower);0;376;Monthly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Schefflera;1;377;Daily
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Scilla;1;378;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Sea Holly;0;379;Bi-weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Sedge;1;380;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Sedum;1;381;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Shasta Daisy;1;382;Weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Sheesham Tree;1;383;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Silene (Catchfly);0;384;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Silverbell Tree;1;385;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Snake Plant;1;386;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Snake Plant (Sansevieria);1;387;Every 2-3 days
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Snapdragon;1;388;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Snowdrop;1;389;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Soursop;0;390;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Speedwell;1;391;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Spider Flower;1;392;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Spider Plant;1;393;Bi-weekly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Split-Leaf Philodendron;1;394;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Staghorn Fern;1;395;Daily
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Star Jasmine;1;396;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Stevia;1;397;Monthly
+Small;6+ hours;Outdoor;Spring;Monthly;1-2 times a year;No;No;Strawberry;1;398;Bi-weekly
+Small;6+ hours;Outdoor;Spring;Monthly;1-2 times a year;No;No;Strawberry;0;399;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Strawberry Plant;1;400;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Bananas;0;401;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Dolphins;0;402;Weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Dolphins;1;403;Weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Hearts;1;404;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Turtles;1;405;Daily
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;String of Turtles;0;406;Daily
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Succulent;1;407;Bi-weekly
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Succulent Mix;1;408;Daily
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Succulents (General);1;409;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Sugarcane;1;410;Bi-weekly
+Large;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Sunflower;1;411;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Swedish Ivy;1;412;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Sweet Alyssum;1;413;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Sweet Basil;1;414;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Sweet Pea;1;415;Weekly
+Small;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Sweet Potato Vine;1;416;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Sweet William;0;417;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Tansy;1;418;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Taro;1;419;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Tarragon;1;420;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Teak;0;421;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Themeda (Kangaroo Grass);1;422;Monthly
+Mini;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Thyme;1;423;Daily
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Tiger Lily;1;424;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Toad Lily;1;425;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Tobacco Plant;0;426;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Tomato;0;427;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Tradescantia;1;428;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Triostar Stromanthe;1;429;Daily
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Tuberose;1;430;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Tuberose (Polianthes);1;431;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Tulip;1;432;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Tulsi (Holy Basil);1;433;Every 2-3 days
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Umbrella Tree;0;434;Daily
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Venus Fly Trap;1;435;Daily
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Venus Fly Trap;0;436;Daily
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Verbena;1;437;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Veronica;1;438;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Viola;1;439;Every 2-3 days
+Mini;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Violet;0;440;Monthly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Wandering Jew;1;441;Weekly
+Small;6+ hours;Indoor;All seasons;Never needed;1-2 times a year;No;No;Water Lily;0;442;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Watermelon Peperomia;0;443;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Watermelon Peperomia;1;444;Weekly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Wattle;0;445;Daily
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Wax Begonia;1;446;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Wisteria;1;447;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Yarrow;1;448;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Yew;1;449;Daily
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Yucca;1;450;Monthly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Zea Mays (Corn);1;451;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Zebra Grass;1;452;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Zebra Plant;1;453;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Zephyranthes (Rain Lily);1;454;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Zinnia;1;455;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Zoysia Grass;1;456;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Zucchini;1;457;Monthly
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Cast Iron Plant;1;1175;Every 2-3 days
+Small;Bright indirect light;Semi-outdoor;Summer;1-2 times a year;Monthly;Yes;No;Basil;1;1176;Every 2-3 days
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Cast Iron Plant;1;1177;Daily
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Baby Tears;1;1178;Daily
+Medium;Bright indirect light;Semi-outdoor;All seasons;Never needed;Monthly;Yes;No;Air Plant (Tillandsia);1;1179;Every 2-3 days
+Large;6+ hours;Semi-outdoor;Winter;1-2 times a year;Monthly;No;No;Basil;1;1180;Monthly
+Large;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Peace Lily;1;1181;Daily
+Large;Bright indirect light;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Snake Plant (Sansevieria);1;1182;Daily
+Small;Bright indirect light;Outdoor;All seasons;Never needed;Never needed;No;Yes;Air Plant (Tillandsia);1;1183;Daily
+Small;1-2 hours daily;Indoor;Summer;1-2 times a year;Monthly;Yes;Yes;Basil;1;1184;Daily
+Medium;1-2 hours daily;Outdoor;All seasons;1-2 times a year;Monthly;Yes;Yes;Basil;0;1185;Daily
+Small;1-2 hours daily;Semi-outdoor;Winter;Monthly;Monthly;Yes;Yes;Baby Tears;1;1186;Daily
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Air Plant (Tillandsia);1;1187;Daily
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Air Plant (Tillandsia);1;1188;Every 2-3 days
+Small;1-2 hours daily;Outdoor;Summer;1-2 times a year;Never needed;Yes;No;Tradescantia;1;1189;Monthly
+Medium;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;Yes;Haworthia;1;1190;Every 2-3 days
+Large;6+ hours;Indoor;All seasons;Never needed;Monthly;Yes;Yes;Air Plant (Tillandsia);1;1191;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Never needed;Monthly;Yes;Yes;Baby Tears;1;1192;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Never needed;Monthly;Yes;Yes;Baby Tears;1;1193;Every 2-3 days
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cast Iron Plant;1;1194;Daily
+Small;1-2 hours daily;Outdoor;Summer;1-2 times a year;Never needed;Yes;No;Basil;1;1195;Monthly
+Medium;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;Yes;Parlor Palm;1;1196;Every 2-3 days
+Medium;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;Yes;Parlor Palm;1;1197;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Never needed;Monthly;Yes;No;Baby Tears;1;1198;Every 2-3 days
+Medium;1-2 hours daily;Semi-outdoor;All seasons;1-2 times a year;Monthly;No;Yes;Cast Iron Plant;1;1199;Weekly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Peace Lily;1;1200;Daily
+Large;Can live in shade;Indoor;All seasons;1-2 times a year;Monthly;No;No;Cast Iron Plant;1;1201;Daily
+Medium;Can live in shade;Indoor;Summer;1-2 times a year;Monthly;No;No;Basil;1;1202;Weekly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Peace Lily;0;1203;Daily
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Snake Plant (Sansevieria);1;1204;Weekly
+Medium;1-2 hours daily;Outdoor;All seasons;1-2 times a year;1-2 times a year;Yes;Yes;Basil;1;1205;Weekly
+Small;1-2 hours daily;Indoor;Spring;1-2 times a year;1-2 times a year;Yes;Yes;Lucky Bamboo;1;1206;Monthly
+Large;Bright indirect light;Outdoor;Spring;Never needed;1-2 times a year;Yes;No;Boston Fern;1;1207;Bi-weekly
+Small;Bright indirect light;Outdoor;All seasons;Never needed;1-2 times a year;No;Yes;Air Plant (Tillandsia);1;1208;Daily
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Watermelon Peperomia;0;1209;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Lily Of The Valley;0;1210;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Zinnia;0;1211;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Galax;0;1212;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Kikar Tree (Acacia);0;1213;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Orchid (Vanilla);0;1214;Bi-weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Camellia;0;1215;Monthly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Iris;0;1216;Monthly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Candytuft;0;1217;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Rex Begonia;0;1218;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Water Lily;0;1219;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Areca Palm;0;1220;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Brassica;0;1221;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Prayer Plant (Maranta);0;1222;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Rudbeckia;0;1223;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Buckwheat;0;1224;Daily
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Boston Fern;0;1225;Daily
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Verbena;0;1226;Daily
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Bluebell;0;1227;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Orchid Cactus;0;1228;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Scabiosa (Pincushion Flower);0;1229;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Ageratum;0;1230;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Orchid (Vanilla);0;1231;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Cabbage Palm;0;1232;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Potato Vine;0;1233;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Daffodils;0;1234;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Carob Tree;0;1235;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Tradescantia;0;1236;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Borage;0;1237;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Goldenrods;0;1238;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Stevia;0;1239;Daily
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Rattlesnake Plant;0;1240;Daily
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Pineapple;0;1241;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Aglaonema (Chinese Evergreen);0;1242;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Knautia;0;1243;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Orchid (Vanilla);0;1244;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Columbine;0;1245;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Camelina;0;1246;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Calla Lily;0;1247;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Catnip;0;1248;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Banyan Tree (Bargad);0;1249;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Spider Flower;0;1250;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Dragonfruit Cactus;0;1251;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Hoya (Wax Plant);0;1252;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Malva (Mallow);0;1253;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Rosemary;0;1254;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Lamb'S Ear;0;1255;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Caladium;0;1256;Monthly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Brassica;0;1257;Daily
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Indian Cress;0;1258;Daily
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Silene (Catchfly);0;1259;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Crown of Thorns;0;1260;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Tobacco Plant;0;1261;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Mallow;0;1262;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Sweet Potato Vine;0;1263;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Quaking Aspen;0;1264;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Camelina;0;1265;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Coltsfoot;0;1266;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;String of Hearts;0;1267;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Thyme;0;1268;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Plumeria;0;1269;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Nerve Plant (Fittonia);0;1270;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Ixia;0;1271;Every 2-3 days
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Globe Thistle;0;1272;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Dusty Miller;0;1273;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Sedum;0;1274;Weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Rattlesnake Plant;0;1275;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Anigozanthos (Kangaroo Paw);0;1276;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Fiddle Leaf Fig;0;1277;Bi-weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Never needed;No;No;Currant;0;1278;Weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Never needed;No;No;Sedum;0;1279;Weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Never needed;No;No;Nettle;0;1280;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Dandelion;0;1281;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ficus Tree;0;1282;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Venus Fly Trap;0;1283;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Epazote;0;1284;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Aztec Lily;0;1285;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Sea Holly;0;1286;Monthly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;String of Bananas;0;1287;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Candytuft;0;1288;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Venus Fly Trap;0;1289;Daily
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lemongrass;0;1290;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Japanese Anemone;0;1291;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Carrot Plant;0;1292;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Jade Pothos;0;1293;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Lemongrass;0;1294;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Pineapple;0;1295;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Jade Pothos;0;1296;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Helenium;0;1297;Every 2-3 days
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Pineapple;0;1298;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Devil?S Ivy;0;1299;Bi-weekly
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Stevia;0;1300;Bi-weekly
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Lavender (English);0;1301;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Euphorbia;0;1302;Monthly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Wandering Jew;0;1303;Monthly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Eucalyptus;0;1304;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Succulents (General);0;1305;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Banana Plant;0;1306;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bromeliad;0;1307;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ixia;0;1308;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;String of Dolphins;0;1309;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Quaking Aspen;0;1310;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Dragonfruit Cactus;0;1311;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Chinese Lantern Plant;0;1312;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Rex Begonia;0;1313;Bi-weekly
+Large;Bright indirect light;Semi-outdoor;All seasons;Monthly;Never needed;No;No;Litchi;0;1314;Every 2-3 days
+Large;Bright indirect light;Semi-outdoor;All seasons;Monthly;Never needed;No;No;Acanthus;0;1315;Every 2-3 days
+Large;Bright indirect light;Semi-outdoor;All seasons;Monthly;Never needed;No;No;Tiger Lily;0;1316;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Tomato;0;1317;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Fern (Boston Fern);0;1318;Every 2-3 days
+Large;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Epazote;0;1319;Every 2-3 days
+Small;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Red Hot Poker (Kniphofia);0;1320;Weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Sweet Alyssum;0;1321;Weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Philodendron;0;1322;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Split-Leaf Philodendron;0;1323;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Marigold (African);0;1324;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Cineraria;0;1325;Weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Armeria (Thrift);0;1326;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Mimosa;0;1327;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Bearded Iris;0;1328;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Pineapple Sage;0;1329;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Periwinkle;0;1330;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;String of Dolphins;0;1331;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Never needed;Never needed;No;Yes;Hosta;0;1332;Daily
+Medium;6+ hours;Indoor;All seasons;Never needed;Never needed;No;Yes;Sedge;0;1333;Daily
+Medium;6+ hours;Indoor;All seasons;Never needed;Never needed;No;Yes;Gul Mohar (Flame Tree);0;1334;Daily
+Mini;6+ hours;Semi-outdoor;Summer;1-2 times a year;1-2 times a year;No;No;Daffodil;0;1335;Every 2-3 days
+Mini;6+ hours;Semi-outdoor;Summer;1-2 times a year;1-2 times a year;No;No;Red Maple;0;1336;Every 2-3 days
+Mini;6+ hours;Semi-outdoor;Summer;1-2 times a year;1-2 times a year;No;No;Ligustrum;0;1337;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Black-Eyed Susan;0;1338;Weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bellflower;0;1339;Weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Wax Begonia;0;1340;Weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Amaryllis;0;1341;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Mandevilla;0;1342;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Mimosa;0;1343;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Yew;0;1344;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Mango;0;1345;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Jacaranda;0;1346;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Succulent;0;1347;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Barrel Cactus;0;1348;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Nandina (Heavenly Bamboo);0;1349;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Passionflower;0;1350;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Mandevilla;0;1351;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Protea;0;1352;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Knautia;0;1353;Daily
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Galax;0;1354;Daily
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Clementine;0;1355;Daily
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Snake Plant;0;1356;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Columbine;0;1357;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Calathea;0;1358;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Chayote;0;1359;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cactus (Various);0;1360;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Blanket Flower;0;1361;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Japanese Maple;0;1362;Monthly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Hummingbird Sage;0;1363;Monthly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Tarragon;0;1364;Monthly
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Galangal;0;1365;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Dahlia;0;1366;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Sedge;0;1367;Daily
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Olive Tree;0;1368;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Brassica;0;1369;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Buckwheat;0;1370;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ficus Tree;0;1371;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Monstera;0;1372;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Parlor Palm;0;1373;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Dandelion;0;1374;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Catnip;0;1375;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Mint;0;1376;Bi-weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Purslane;0;1377;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Poppy;0;1378;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Lemon Tree;0;1379;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Arum Lily;0;1380;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Litchi;0;1381;Every 2-3 days
+Large;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Chayote;0;1382;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Amaltas (Golden Shower);0;1383;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Periwinkle;0;1384;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Zucchini;0;1385;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Red Maple;0;1386;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Bamboo;0;1387;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Orchid (Phalaenopsis);0;1388;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Cockscomb (Celosia);0;1389;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Scilla;0;1390;Monthly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Pomegranate;0;1391;Monthly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;No;No;Banyan Tree (Bargad);0;1392;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;No;No;Ixia;0;1393;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;No;No;Chinese Evergreen;0;1394;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Dianella;0;1395;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Buckwheat;0;1396;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Laelia Orchid;0;1397;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Ice Plant;0;1398;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Wax Begonia;0;1399;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Taro;0;1400;Monthly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Daisy;0;1401;Bi-weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Tarragon;0;1402;Bi-weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Mulberry;0;1403;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Kiwi;0;1404;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Schefflera;0;1405;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Yucca;0;1406;Monthly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Cineraria;0;1407;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Guava;0;1408;Bi-weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Stevia;0;1409;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Chinese Money Plant;0;1410;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Coneflower;0;1411;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cilantro;0;1412;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Potato Vine;0;1413;Daily
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Echinacea;0;1414;Daily
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;String of Dolphins;0;1415;Daily
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Monstera Deliciosa;0;1416;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Indian Cress;0;1417;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Green Bean;0;1418;Bi-weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;No;Yes;Lavender (French);0;1419;Weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;No;Yes;String of Bananas;0;1420;Weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;No;Yes;Pothos (Devil's Ivy);0;1421;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cockscomb (Celosia);0;1422;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Croton;0;1423;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Lemongrass;0;1424;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Lavender (French);0;1425;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Pothos (Devil's Ivy);0;1426;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Cabbage;0;1427;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Cucumber;0;1428;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Clementine;0;1429;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Strawberry Plant;0;1430;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Amaranth;0;1431;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Calendula;0;1432;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Philodendron;0;1433;Bi-weekly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Fern (Maidenhair);0;1434;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Aloe Vera;0;1435;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Fairy Lantern;0;1436;Every 2-3 days
+Mini;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Japanese Anemone;0;1437;Monthly
+Mini;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Scabiosa (Pincushion Flower);0;1438;Monthly
+Mini;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Echeveria;0;1439;Monthly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Lotus Bamboo;0;1440;Weekly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Galax;0;1441;Weekly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Candytuft;0;1442;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Peperomia;0;1443;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Hosta;0;1444;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Fairy Lantern;0;1445;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cananga (Ylang-Ylang);0;1446;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Grape Vine;0;1447;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Shasta Daisy;0;1448;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Hosta;0;1449;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Sweet Potato Vine;0;1450;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Echeveria;0;1451;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Aglaonema (Chinese Evergreen);0;1452;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Nerve Plant (Fittonia);0;1453;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;String of Hearts;0;1454;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Peony;0;1455;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Tulip;0;1456;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Catnip;0;1457;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Guar;0;1458;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Violet;0;1459;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Nutmeg;0;1460;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;No;No;Helenium;0;1461;Monthly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;No;No;Fritillaria;0;1462;Monthly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;No;No;Cyclamen;0;1463;Monthly
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Amaryllis;0;1464;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Marjoram;0;1465;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Elderflower;0;1466;Every 2-3 days
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lupine;0;1467;Daily
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Oregano;0;1468;Daily
+Small;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Rattlesnake Plant;0;1469;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Christmas Cactus;0;1470;Monthly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Polka Dot Begonia;0;1471;Monthly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Lychee;0;1472;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Yarrow;0;1473;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Snake Plant;0;1474;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Pothos;0;1475;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ligustrum;0;1476;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chinese Lantern Plant;0;1477;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Bee Balm;0;1478;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Marigold (African);0;1479;Monthly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Larkspur;0;1480;Monthly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Moringa;0;1481;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Heliotrope;0;1482;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Candytuft;0;1483;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Apple Tree;0;1484;Monthly
+Medium;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Borage;0;1485;Weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Guava;0;1486;Weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Japanese Anemone;0;1487;Weekly
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Lavender;0;1488;Daily
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Islander (Agave);0;1489;Daily
+Medium;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Split-Leaf Philodendron;0;1490;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;String of Turtles;0;1491;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Pineapple Sage;0;1492;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Redwood;0;1493;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Sago Palm;0;1494;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Fern (Boston Fern);0;1495;Every 2-3 days
+Medium;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Olive Tree;0;1496;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;1-2 times a year;Never needed;No;No;Blanket Flower;0;1497;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;1-2 times a year;Never needed;No;No;Bay Laurel;0;1498;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;1-2 times a year;Never needed;No;No;Prayer Plant (Maranta);0;1499;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Carnation;0;1500;Daily
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Brassica;0;1501;Daily
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Haworthia;0;1502;Daily
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Fern (Boston Fern);0;1503;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Tuberose (Polianthes);0;1504;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Phlox;0;1505;Monthly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Lamb'S Ear;0;1506;Bi-weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Armeria (Thrift);0;1507;Bi-weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Mayapple;0;1508;Bi-weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Zoysia Grass;0;1509;Monthly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Sago Palm;0;1510;Monthly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Plumeria;0;1511;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Galangal;0;1512;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Gazania;0;1513;Bi-weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Majesty Palm;0;1514;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Succulent Mix;0;1515;Weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Snowdrop;0;1516;Weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Litchi;0;1517;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Galax;0;1518;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bluebell;0;1519;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Rosemary Mint;0;1520;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Never needed;1-2 times a year;No;No;Chinese Money Plant;0;1521;Daily
+Small;6+ hours;Indoor;Summer;Never needed;1-2 times a year;No;No;Mustard;0;1522;Daily
+Small;6+ hours;Indoor;Summer;Never needed;1-2 times a year;No;No;Quince;0;1523;Daily
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Carnation;0;1524;Daily
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Sweet William;0;1525;Daily
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Zea Mays (Corn);0;1526;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;California Poppy;0;1527;Monthly
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Pineapple;0;1528;Monthly
+Large;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Banyan Tree (Bargad);0;1529;Monthly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Elderberry;0;1530;Bi-weekly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Dianella;0;1531;Bi-weekly
+Medium;1-2 hours daily;Indoor;Spring;Monthly;Never needed;Yes;Yes;Speedwell;0;1532;Bi-weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Globe Thistle;0;1533;Weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Fig Tree;0;1534;Weekly
+Large;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Sugarcane;0;1535;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Red Maple;0;1536;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Knautia;0;1537;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Nerve Plant (Fittonia);0;1538;Weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Jasmine;0;1539;Weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Blanket Flower;0;1540;Weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Grape Vine;0;1541;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Veronica;0;1542;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Cress;0;1543;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Marigold (African);0;1544;Bi-weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Water Lily;0;1545;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Engelmann Spruce;0;1546;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Acacia;0;1547;Weekly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Jasmine;0;1548;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Philodendron;0;1549;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Umbrella Tree;0;1550;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Croton;0;1551;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Veronica;0;1552;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Lilac Bush;0;1553;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Umbrella Tree;0;1554;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Holly;0;1555;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Jatropha;0;1556;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Dragonfruit Cactus;0;1557;Bi-weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Guar;0;1558;Bi-weekly
+Small;6+ hours;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Umbrella Tree;0;1559;Bi-weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Fig Tree;0;1560;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Acacia;0;1561;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Pomegranate;0;1562;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Money Tree;0;1563;Monthly
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Lipstick Plant;0;1564;Monthly
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Red Maple;0;1565;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Rosemary Mint;0;1566;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lemon Grass;0;1567;Every 2-3 days
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Fennel;0;1568;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Columbine;0;1569;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Radish;0;1570;Every 2-3 days
+Small;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;No;Tradescantia;0;1571;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Dill;0;1572;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Lacandonian;0;1573;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Bellflower;0;1574;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Parlor Palm;0;1575;Weekly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Dieffenbachia;0;1576;Weekly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Sugarcane;0;1577;Weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Russian Sage;0;1578;Weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Teak;0;1579;Weekly
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Lucky Bamboo;0;1580;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Wandering Jew;0;1581;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Quaking Aspen;0;1582;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Tuberose;0;1583;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Scabiosa (Pincushion Flower);0;1584;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Coral Bells;0;1585;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Dieffenbachia;0;1586;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Amaltas (Golden Shower);0;1587;Monthly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Radish;0;1588;Monthly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Fuchsia;0;1589;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Aquilegia (Columbine);0;1590;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Ginger;0;1591;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Mandevilla;0;1592;Weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cress;0;1593;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Oregano;0;1594;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Rose;0;1595;Bi-weekly
+Medium;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Poppy;0;1596;Every 2-3 days
+Medium;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Luffa;0;1597;Every 2-3 days
+Medium;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Ginger;0;1598;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Protea;0;1599;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Jatropha;0;1600;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Zebra Grass;0;1601;Bi-weekly
+Large;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Tradescantia;0;1602;Bi-weekly
+Large;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Aglaonema (Chinese Evergreen);0;1603;Bi-weekly
+Large;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Grape Hyacinth;0;1604;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Scabiosa (Pincushion Flower);0;1605;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Sea Holly;0;1606;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Tiger Lily;0;1607;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Themeda (Kangaroo Grass);0;1608;Weekly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Cress;0;1609;Weekly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Bigleaf Hydrangea;0;1610;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Stevia;0;1611;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Snowdrop;0;1612;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Gerbera Daisy;0;1613;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cat Grass;0;1614;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Ironwood;0;1615;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Aloe Vera;0;1616;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Knautia;0;1617;Monthly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Dragon Fruit;0;1618;Monthly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Norfolk Island Pine;0;1619;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Carrot;0;1620;Daily
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Mulberry;0;1621;Daily
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Borage;0;1622;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Foxglove;0;1623;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Pomegranate;0;1624;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Anemone;0;1625;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Laelia Orchid;0;1626;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Tansy;0;1627;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Swedish Ivy;0;1628;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Snowdrop;0;1629;Daily
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Blackcurrant;0;1630;Daily
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Lotus Bamboo;0;1631;Daily
+Medium;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Lotus Bamboo;0;1632;Every 2-3 days
+Medium;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Lipstick Plant;0;1633;Every 2-3 days
+Medium;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Chili Pepper;0;1634;Every 2-3 days
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Begonia (Outdoor);0;1635;Weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Cornflower;0;1636;Weekly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Balsam;0;1637;Weekly
+Medium;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Jacaranda;0;1638;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Jasmine;0;1639;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Strawberry;0;1640;Every 2-3 days
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Bay Laurel;0;1641;Daily
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Maranta (Prayer Plant);0;1642;Daily
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Ice Plant;0;1643;Daily
+Small;Bright indirect light;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Catnip;0;1644;Bi-weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Orchids;0;1645;Bi-weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Calendula;0;1646;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Candytuft;0;1647;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Bleeding Heart;0;1648;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Philodendron;0;1649;Weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;Monthly;Yes;Yes;Verbena;0;1650;Bi-weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;Monthly;Yes;Yes;Cast Iron Plant;0;1651;Bi-weekly
+Small;Bright indirect light;Indoor;Winter;Monthly;Monthly;Yes;Yes;Sage;0;1652;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;California Poppy;0;1653;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Buckwheat;0;1654;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Hops;0;1655;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Majesty Palm;0;1656;Weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Sago Palm;0;1657;Weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Lucky Bamboo;0;1658;Weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;Monthly;No;No;Hibiscus;0;1659;Daily
+Large;Bright indirect light;Indoor;Spring;Monthly;Monthly;No;No;Clover;0;1660;Daily
+Large;Bright indirect light;Indoor;Spring;Monthly;Monthly;No;No;Grape Vine;0;1661;Daily
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Staghorn Fern;0;1662;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cosmos;0;1663;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Salvia;0;1664;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Fairy Lantern;0;1665;Bi-weekly
+Small;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Hummingbird Sage;0;1666;Bi-weekly
+Small;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Radish;0;1667;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Aztec Lily;0;1668;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Pine;0;1669;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Succulent Mix;0;1670;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Dianella;0;1671;Monthly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Epazote;0;1672;Monthly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Never needed;Yes;Yes;Verbena;0;1673;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Dragon Fruit;0;1674;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Cockscomb (Celosia);0;1675;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Winter;Never needed;1-2 times a year;No;No;Fig Tree;0;1676;Every 2-3 days
+Mini;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;No;Cactus;0;1677;Monthly
+Mini;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;No;Marjoram;0;1678;Monthly
+Mini;Bright indirect light;Indoor;Spring;Never needed;Monthly;No;No;Coreopsis;0;1679;Monthly
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Ageratum;0;1680;Daily
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Lemon Balm;0;1681;Daily
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Rattlesnake Plant;0;1682;Daily
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Scabiosa (Pincushion Flower);0;1683;Weekly
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Lacandonian;0;1684;Weekly
+Large;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Acanthus;0;1685;Weekly
+Medium;Bright indirect light;Semi-outdoor;Summer;Monthly;Never needed;No;No;Calendula;0;1686;Bi-weekly
+Medium;Bright indirect light;Semi-outdoor;Summer;Monthly;Never needed;No;No;Aster;0;1687;Bi-weekly
+Medium;Bright indirect light;Semi-outdoor;Summer;Monthly;Never needed;No;No;Zucchini;0;1688;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Periwinkle;0;1689;Daily
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Daylily;0;1690;Daily
+Small;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Maranta (Prayer Plant);0;1691;Daily
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Hollyhock;0;1692;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Ginkgo;0;1693;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Zebra Grass;0;1694;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Petunia;0;1695;Monthly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Lotus Bamboo;0;1696;Monthly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Black Currant;0;1697;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Borage;0;1698;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cactus (Various);0;1699;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Candytuft;0;1700;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Asparagus Fern;0;1701;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Hummingbird Sage;0;1702;Every 2-3 days
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Petunia (Trailing);0;1703;Every 2-3 days
+Large;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Tuberose (Polianthes);0;1704;Bi-weekly
+Large;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Larkspur;0;1705;Bi-weekly
+Large;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Anthurium;0;1706;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Tuberose (Polianthes);0;1707;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Succulent Mix;0;1708;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Tarragon;0;1709;Monthly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Coltsfoot;0;1710;Bi-weekly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Salvia;0;1711;Bi-weekly
+Small;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Chives;0;1712;Bi-weekly
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Lavender (French);0;1713;Daily
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Hops;0;1714;Daily
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Petunia;0;1715;Daily
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Grape Vine;0;1716;Weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Banana Plant;0;1717;Weekly
+Small;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Pothos;0;1718;Weekly
+Medium;6+ hours;Indoor;Spring;Never needed;Monthly;No;No;Croton;0;1719;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Never needed;Monthly;No;No;Balloon Flower;0;1720;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Never needed;Monthly;No;No;Aglaonema (Chinese Evergreen);0;1721;Every 2-3 days
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Kikar Tree (Acacia);0;1722;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Corn;0;1723;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cornflower;0;1724;Bi-weekly
+Small;6+ hours;Semi-outdoor;All seasons;Never needed;Never needed;No;No;Chestnut;0;1725;Every 2-3 days
+Small;6+ hours;Semi-outdoor;All seasons;Never needed;Never needed;No;No;Alocasia (Elephant Ear);0;1726;Every 2-3 days
+Small;6+ hours;Semi-outdoor;All seasons;Never needed;Never needed;No;No;Calendula;0;1727;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Hoya (Wax Plant);0;1728;Daily
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Carrot Plant;0;1729;Daily
+Small;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chestnut;0;1730;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Columbine;0;1731;Every 2-3 days
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Red Hot Poker (Kniphofia);0;1732;Every 2-3 days
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Chayote;0;1733;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Tomato;0;1734;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Currant;0;1735;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Echeveria;0;1736;Monthly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Jasmine (Indoor);0;1737;Weekly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;California Poppy;0;1738;Weekly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Alstroemeria;0;1739;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cress;0;1740;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chestnut;0;1741;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Jackfruit;0;1742;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Islander (Agave);0;1743;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Zea Mays (Corn);0;1744;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Aluminum Plant;0;1745;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Oregano;0;1746;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Sweet William;0;1747;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Chestnut;0;1748;Weekly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Scilla;0;1749;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Lady'S Mantle;0;1750;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Grape Vine;0;1751;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;String of Turtles;0;1752;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Alocasia (Elephant Ear);0;1753;Weekly
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Taro;0;1754;Weekly
+Mini;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Dianella;0;1755;Every 2-3 days
+Mini;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Malva (Mallow);0;1756;Every 2-3 days
+Mini;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Banyan Tree (Bargad);0;1757;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Pine;0;1758;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Lucky Bamboo;0;1759;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Lavender (French);0;1760;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Green Bean;0;1761;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Feverfew;0;1762;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Guar;0;1763;Weekly
+Small;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Lily Of The Valley;0;1764;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Poppy;0;1765;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;Monthly;No;No;Wattle;0;1766;Bi-weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;Never needed;Yes;Yes;Gardenia;0;1767;Every 2-3 days
+Large;Bright indirect light;Indoor;Spring;Monthly;Never needed;Yes;Yes;Venus Fly Trap;0;1768;Every 2-3 days
+Large;Bright indirect light;Indoor;Spring;Monthly;Never needed;Yes;Yes;Clivia;0;1769;Every 2-3 days
+Small;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Tuberose;0;1770;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Ivy;0;1771;Bi-weekly
+Small;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Phlox;0;1772;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Guava;0;1773;Monthly
+Small;1-2 hours daily;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Swedish Ivy;0;1774;Monthly
+Small;1-2 hours daily;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Majesty Palm;0;1775;Monthly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Camellia;0;1776;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lipstick Plant;0;1777;Weekly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Amaranth;0;1778;Weekly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Teak;0;1779;Monthly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Snake Plant (Sansevieria);0;1780;Monthly
+Mini;1-2 hours daily;Indoor;Summer;Monthly;Monthly;Yes;Yes;Asparagus Fern;0;1781;Monthly
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;No;No;Periwinkle;0;1782;Daily
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;No;No;Ficus Tree;0;1783;Daily
+Medium;6+ hours;Semi-outdoor;Spring;Monthly;1-2 times a year;No;No;Chayote;0;1784;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Indian Cress;0;1785;Every 2-3 days
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lamb'S Ear;0;1786;Every 2-3 days
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Chinese Evergreen;0;1787;Every 2-3 days
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Snake Plant (Sansevieria);0;1788;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lemon Balm;0;1789;Bi-weekly
+Small;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Dieffenbachia;0;1790;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Lantana;0;1791;Daily
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Ginger;0;1792;Daily
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Litchi;0;1793;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Silene (Catchfly);0;1794;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Bloodroot;0;1795;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Chrysanthemum (Outdoor);0;1796;Daily
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Marigold;0;1797;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Chili Pepper;0;1798;Every 2-3 days
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Orchid (Vanilla);0;1799;Every 2-3 days
+Small;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Catmint;0;1800;Bi-weekly
+Small;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;African Violet;0;1801;Bi-weekly
+Small;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Mandevilla;0;1802;Bi-weekly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;Never needed;No;No;Geranium;0;1803;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;Never needed;No;No;Bluebell;0;1804;Monthly
+Mini;1-2 hours daily;Indoor;Winter;Never needed;Never needed;No;No;Echeveria;0;1805;Monthly
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Bok Choy;0;1806;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Carob Tree;0;1807;Every 2-3 days
+Medium;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Carrot Plant;0;1808;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Never needed;Monthly;No;No;Parlor Palm;0;1809;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Never needed;Monthly;No;No;Viola;0;1810;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Never needed;Monthly;No;No;Sage;0;1811;Every 2-3 days
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Dandelion;0;1812;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Wisteria;0;1813;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Japanese Anemone;0;1814;Weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Mango;0;1815;Weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Wisteria;0;1816;Weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Peepal Tree;0;1817;Weekly
+Medium;6+ hours;Outdoor;Summer;1-2 times a year;Never needed;No;No;Cocoa Tree;0;1818;Weekly
+Medium;6+ hours;Outdoor;Summer;1-2 times a year;Never needed;No;No;Lady'S Mantle;0;1819;Weekly
+Medium;6+ hours;Outdoor;Summer;1-2 times a year;Never needed;No;No;String of Bananas;0;1820;Weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Bamboo;0;1821;Weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Swedish Ivy;0;1822;Weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Bougainvillea;0;1823;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Spider Plant;0;1824;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Peepal Tree (Bodhi Tree);0;1825;Monthly
+Mini;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Magnolia;0;1826;Monthly
+Large;6+ hours;Semi-outdoor;Spring;Monthly;Monthly;No;No;Coltsfoot;0;1827;Every 2-3 days
+Large;6+ hours;Semi-outdoor;Spring;Monthly;Monthly;No;No;Sage;0;1828;Every 2-3 days
+Large;6+ hours;Semi-outdoor;Spring;Monthly;Monthly;No;No;Calla Lily;0;1829;Every 2-3 days
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Air Plant (Tillandsia);0;1830;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Hops Vine;0;1831;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Succulent;0;1832;Weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Passionflower;0;1833;Daily
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Soursop;0;1834;Daily
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Chinese Money Plant;0;1835;Daily
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Fern (Boston Fern);0;1836;Weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Holly;0;1837;Weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Snake Plant (Sansevieria);0;1838;Weekly
+Small;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Camelina;0;1839;Monthly
+Small;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Peony;0;1840;Monthly
+Small;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Dragon Fruit;0;1841;Monthly
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Cyclamen;0;1842;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Rudbeckia;0;1843;Every 2-3 days
+Large;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Camelina;0;1844;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Pomegranate;0;1845;Weekly
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Oregano;0;1846;Weekly
+Mini;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Mimosa;0;1847;Weekly
+Small;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Neem Tree;0;1848;Bi-weekly
+Small;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Snapdragon;0;1849;Bi-weekly
+Small;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;Yes;Succulent Mix;0;1850;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Bay Laurel;0;1851;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Nutmeg;0;1852;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Strawberry;0;1853;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Jackfruit;0;1854;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Yarrow;0;1855;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Pothos;0;1856;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Nettle;0;1857;Every 2-3 days
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Hen and Chicks;0;1858;Every 2-3 days
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;No;No;Dahlia;0;1859;Every 2-3 days
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lemon Grass;0;1860;Monthly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Anemone;0;1861;Monthly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Gardenia;0;1862;Monthly
+Small;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Sage;0;1863;Monthly
+Small;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Succulents (General);0;1864;Monthly
+Small;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Fuchsia;0;1865;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;Never needed;No;No;Lucky Bamboo;0;1866;Bi-weekly
+Large;6+ hours;Indoor;Winter;Never needed;Never needed;No;No;Bluebell;0;1867;Bi-weekly
+Large;6+ hours;Indoor;Winter;Never needed;Never needed;No;No;Hibiscus;0;1868;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Chrysanthemum (Outdoor);0;1869;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Aztec Lily;0;1870;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Helenium;0;1871;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Heliotrope;0;1872;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Hops Vine;0;1873;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Ageratum;0;1874;Monthly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Tulip;0;1875;Daily
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Boston Fern;0;1876;Daily
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Thyme;0;1877;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Ginkgo;0;1878;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Japanese Maple;0;1879;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Holly;0;1880;Daily
+Medium;Bright indirect light;Indoor;Winter;Never needed;Monthly;No;No;Succulent Mix;0;1881;Weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Monthly;No;No;Luffa;0;1882;Weekly
+Medium;Bright indirect light;Indoor;Winter;Never needed;Monthly;No;No;Snake Plant;0;1883;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;No;No;Kalanchoe;0;1884;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;No;No;Shasta Daisy;0;1885;Weekly
+Large;Bright indirect light;Indoor;Summer;Monthly;1-2 times a year;No;No;Clove;0;1886;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Buckwheat;0;1887;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Cabbage;0;1888;Weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Carrot Plant;0;1889;Weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Orchid (Phalaenopsis);0;1890;Bi-weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Bee Balm;0;1891;Bi-weekly
+Large;1-2 hours daily;Indoor;Spring;Monthly;Monthly;Yes;Yes;Cestrum;0;1892;Bi-weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Eggplant;0;1893;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Brassica;0;1894;Weekly
+Mini;6+ hours;Indoor;Winter;Monthly;1-2 times a year;Yes;Yes;Dusty Miller;0;1895;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Potato Vine;0;1896;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Scabiosa (Pincushion Flower);0;1897;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Achillea (Yarrow);0;1898;Bi-weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Sunflower;0;1899;Monthly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Achillea (Yarrow);0;1900;Monthly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Ironwood;0;1901;Monthly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Knautia;0;1902;Weekly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Ginger;0;1903;Weekly
+Mini;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Raspberry;0;1904;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Cockscomb (Celosia);0;1905;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Goldenseal;0;1906;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Staghorn Fern;0;1907;Bi-weekly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;No;No;Snowdrop;0;1908;Monthly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;No;No;Star Jasmine;0;1909;Monthly
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;No;No;Silverbell Tree;0;1910;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Bee Balm;0;1911;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Kiwi Vine;0;1912;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Moringa;0;1913;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Lotus Bamboo;0;1914;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Dogwood Tree;0;1915;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Jasmine (Outdoor);0;1916;Daily
+Large;Bright indirect light;Indoor;Summer;Never needed;Monthly;No;No;Malva (Mallow);0;1917;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Never needed;Monthly;No;No;Jasmine (Outdoor);0;1918;Bi-weekly
+Large;Bright indirect light;Indoor;Summer;Never needed;Monthly;No;No;Dusty Miller;0;1919;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Sedge;0;1920;Weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Alstroemeria;0;1921;Weekly
+Small;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Blanket Flower;0;1922;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Thyme;0;1923;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Cornflower;0;1924;Weekly
+Medium;Bright indirect light;Indoor;Summer;Monthly;Never needed;Yes;Yes;Gumwood Tree;0;1925;Weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Ficus Benjamina;0;1926;Daily
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Guar;0;1927;Daily
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Camelina;0;1928;Daily
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Rex Begonia;0;1929;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Tarragon;0;1930;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;No;No;Buckwheat;0;1931;Bi-weekly
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Date Palm;0;1932;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Alyssum;0;1933;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;Never needed;No;No;Cactus;0;1934;Every 2-3 days
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Silverbell Tree;0;1935;Daily
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Asparagus Fern;0;1936;Daily
+Medium;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Amaryllis;0;1937;Daily
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Nettle;0;1938;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lady'S Mantle;0;1939;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lacandonian;0;1940;Monthly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cactus (Various);0;1941;Bi-weekly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Candytuft;0;1942;Bi-weekly
+Small;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Chrysanthemum (Outdoor);0;1943;Bi-weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Armeria (Thrift);0;1944;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Ligustrum;0;1945;Weekly
+Mini;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Kikar Tree (Acacia);0;1946;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Elderberry;0;1947;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Bamboo Palm;0;1948;Weekly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Pilea;0;1949;Weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Hen and Chicks;0;1950;Bi-weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Fig Tree;0;1951;Bi-weekly
+Mini;1-2 hours daily;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Salvia;0;1952;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Ficus Benjamina;0;1953;Daily
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Acanthus;0;1954;Daily
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Parsley;0;1955;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Spider Plant;0;1956;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Kiwi Vine;0;1957;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Zucchini;0;1958;Daily
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Baby Tears;0;1959;Daily
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;African Violet;0;1960;Daily
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Peace Lily;0;1961;Daily
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;Yes;Lupine;0;1962;Every 2-3 days
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;Yes;Verbena;0;1963;Every 2-3 days
+Medium;Bright indirect light;Indoor;Winter;Monthly;Never needed;Yes;Yes;Jackfruit;0;1964;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Zea Mays (Corn);0;1965;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Cactus (Various);0;1966;Every 2-3 days
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Jasmine;0;1967;Every 2-3 days
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Chrysanthemum (Outdoor);0;1968;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Snake Plant;0;1969;Bi-weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Never needed;No;No;Galangal;0;1970;Bi-weekly
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Money Plant;0;1971;Daily
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Geranium;0;1972;Daily
+Medium;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Succulent;0;1973;Daily
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Nerve Plant (Fittonia);0;1974;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Coral Bells;0;1975;Bi-weekly
+Medium;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Tuberose;0;1976;Bi-weekly
+Small;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Spider Flower;0;1977;Daily
+Small;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Blazing Star;0;1978;Daily
+Small;Can live in shade;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Spider Plant;0;1979;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Acorn Squash;0;1980;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Bluebell;0;1981;Daily
+Medium;Bright indirect light;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cilantro;0;1982;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Eggplant;0;1983;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Henbane;0;1984;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;No;No;Calendula;0;1985;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Sweet Pea;0;1986;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Staghorn Fern;0;1987;Bi-weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Yew;0;1988;Bi-weekly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Fern (Maidenhair);0;1989;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Goldenrods;0;1990;Monthly
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Bellflower;0;1991;Monthly
+Small;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Tarragon;0;1992;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Anemone;0;1993;Bi-weekly
+Small;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Cress;0;1994;Bi-weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Dracaena;0;1995;Monthly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Jatropha;0;1996;Monthly
+Medium;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Sedge;0;1997;Monthly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Guava;0;1998;Monthly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Aztec Lily;0;1999;Monthly
+Small;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Quinoa;0;2000;Monthly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Azalea;0;2001;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Engelmann Spruce;0;2002;Bi-weekly
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cestrum;0;2003;Bi-weekly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Astilbe;0;2004;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Daisy Fleabane;0;2005;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Never needed;Yes;Yes;Spider Flower;0;2006;Monthly
+Small;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Areca Palm;0;2007;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Spider Flower;0;2008;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Holly;0;2009;Daily
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Monstera;0;2010;Bi-weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Mayapple;0;2011;Bi-weekly
+Large;1-2 hours daily;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Foxglove;0;2012;Bi-weekly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Hen and Chicks;0;2013;Monthly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Prayer Plant (Maranta);0;2014;Monthly
+Small;6+ hours;Indoor;Spring;Monthly;Never needed;Yes;Yes;Croton;0;2015;Monthly
+Medium;6+ hours;Outdoor;Spring;Monthly;Monthly;No;Yes;Potato Vine;0;2016;Monthly
+Medium;6+ hours;Outdoor;Spring;Monthly;Monthly;No;Yes;Jerusalem Artichoke;0;2017;Monthly
+Medium;6+ hours;Outdoor;Spring;Monthly;Monthly;No;Yes;Canna Lily;0;2018;Monthly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Fig Tree;0;2019;Every 2-3 days
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Amaryllis;0;2020;Every 2-3 days
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Galangal;0;2021;Every 2-3 days
+Mini;1-2 hours daily;Indoor;Summer;Never needed;Never needed;No;No;Magnolia;0;2022;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Never needed;Never needed;No;No;Green Bean;0;2023;Bi-weekly
+Mini;1-2 hours daily;Indoor;Summer;Never needed;Never needed;No;No;Cyclamen;0;2024;Bi-weekly
+Medium;Bright indirect light;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;Yes;Euphorbia;0;2025;Weekly
+Medium;Bright indirect light;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;Yes;Gardenia;0;2026;Weekly
+Medium;Bright indirect light;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;Yes;Bird's Nest Fern;0;2027;Weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Indian Grass;0;2028;Weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Geranium;0;2029;Weekly
+Small;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Lupine;0;2030;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Aquilegia (Columbine);0;2031;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Alocasia (Elephant Ear);0;2032;Weekly
+Large;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Date Palm;0;2033;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Yarrow;0;2034;Monthly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Coreopsis;0;2035;Monthly
+Medium;6+ hours;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Norfolk Island Pine;0;2036;Monthly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Moringa;0;2037;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Acorn Squash;0;2038;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Carnation;0;2039;Daily
+Large;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Bee Balm;0;2040;Bi-weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Begonia (Outdoor);0;2041;Bi-weekly
+Large;1-2 hours daily;Indoor;Winter;Monthly;Never needed;Yes;Yes;Echeveria;0;2042;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Jasmine (Outdoor);0;2043;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Fig Tree;0;2044;Bi-weekly
+Mini;6+ hours;Indoor;Summer;Never needed;Never needed;No;No;Globe Thistle;0;2045;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Laelia Orchid;0;2046;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Green Bean;0;2047;Bi-weekly
+Small;Bright indirect light;Indoor;Summer;Never needed;1-2 times a year;No;No;Strawberry Plant;0;2048;Bi-weekly
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Dandelion;0;2049;Every 2-3 days
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Rhododendron;0;2050;Every 2-3 days
+Medium;Can live in shade;Indoor;All seasons;1-2 times a year;Never needed;Yes;No;Wax Begonia;0;2051;Every 2-3 days
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Bergamot;0;2052;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Rose;0;2053;Weekly
+Small;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Nutmeg;0;2054;Weekly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Orchid Cactus;0;2055;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Sedum;0;2056;Monthly
+Mini;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Malva (Mallow);0;2057;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Bird's Nest Fern;0;2058;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Elderflower;0;2059;Monthly
+Large;6+ hours;Indoor;Winter;Never needed;1-2 times a year;No;No;Guar;0;2060;Monthly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Black Currant;0;2061;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Chinese Money Plant;0;2062;Weekly
+Large;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Marigold;0;2063;Weekly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Dandelion;0;2064;Bi-weekly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Zebra Plant;0;2065;Bi-weekly
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Cactus;0;2066;Bi-weekly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Soursop;0;2067;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Japanese Maple;0;2068;Monthly
+Large;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Goldenrods;0;2069;Monthly
+Small;6+ hours;Outdoor;Spring;Monthly;1-2 times a year;No;No;Ginger;0;2070;Bi-weekly
+Small;6+ hours;Outdoor;Spring;Monthly;1-2 times a year;No;No;Cabbage;0;2071;Bi-weekly
+Small;6+ hours;Outdoor;Spring;Monthly;1-2 times a year;No;No;Tulip;0;2072;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Stevia;0;2073;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Catmint;0;2074;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Tuberose;0;2075;Bi-weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Zoysia Grass;0;2076;Weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Mulberry;0;2077;Weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Catmint;0;2078;Weekly
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Kangaroo Paw Fern;0;2079;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Mint;0;2080;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;1-2 times a year;Never needed;No;No;Quinoa;0;2081;Every 2-3 days
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Pine;0;2082;Daily
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Croton;0;2083;Daily
+Mini;1-2 hours daily;Indoor;All seasons;Never needed;Never needed;No;No;Daffodil;0;2084;Daily
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Potato Vine;0;2085;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Moringa;0;2086;Bi-weekly
+Small;6+ hours;Indoor;Summer;Monthly;Never needed;Yes;Yes;Kiwi;0;2087;Bi-weekly
+Large;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Pothos;0;2088;Daily
+Large;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Date Palm (Khajoor);0;2089;Daily
+Large;6+ hours;Outdoor;Summer;Monthly;1-2 times a year;No;No;Wattle;0;2090;Daily
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Achillea (Yarrow);0;2091;Weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Camellia;0;2092;Weekly
+Small;Bright indirect light;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lemon Balm;0;2093;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Cabbage Palm;0;2094;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Buckwheat;0;2095;Weekly
+Medium;6+ hours;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Silene (Catchfly);0;2096;Weekly
+Mini;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Quince;0;2097;Monthly
+Mini;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Calathea;0;2098;Monthly
+Mini;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Goldenseal;0;2099;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Lobelia;0;2100;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Dogwood Tree;0;2101;Monthly
+Mini;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Japanese Anemone;0;2102;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Lemon Balm;0;2103;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Teak;0;2104;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;Monthly;Yes;Yes;Cyclamen;0;2105;Weekly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cress;0;2106;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Bearded Iris;0;2107;Monthly
+Medium;6+ hours;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Apple Tree;0;2108;Monthly
+Mini;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Fiddle Leaf Fig;0;2109;Daily
+Mini;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Lucky Bamboo;0;2110;Daily
+Mini;6+ hours;Semi-outdoor;Summer;Monthly;Never needed;No;No;Chinese Money Plant;0;2111;Daily
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Daffodil;0;2112;Every 2-3 days
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Ber Tree (Indian Jujube);0;2113;Every 2-3 days
+Small;1-2 hours daily;Indoor;All seasons;Monthly;1-2 times a year;Yes;Yes;Daisy Fleabane;0;2114;Every 2-3 days
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Rhododendron;0;2115;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Aloe Vera;0;2116;Daily
+Small;Bright indirect light;Indoor;All seasons;Monthly;Never needed;Yes;No;Dandelion;0;2117;Daily
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Coneflower;0;2118;Monthly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Guar;0;2119;Monthly
+Large;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Alyssum;0;2120;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Dandelion;0;2121;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Lilac;0;2122;Monthly
+Medium;6+ hours;Indoor;Winter;Monthly;Monthly;Yes;Yes;Poinsettia;0;2123;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Green Bean;0;2124;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;String of Dolphins;0;2125;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Triostar Stromanthe;0;2126;Every 2-3 days
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Star Jasmine;0;2127;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Corn;0;2128;Daily
+Large;Bright indirect light;Indoor;All seasons;Monthly;1-2 times a year;Yes;No;Green Bean;0;2129;Daily
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Liatris;0;2130;Daily
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Knautia;0;2131;Daily
+Small;6+ hours;Indoor;All seasons;Never needed;Never needed;No;No;Cactus (Various);0;2132;Daily
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Aloe Vera;0;2133;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Crown of Thorns;0;2134;Every 2-3 days
+Mini;6+ hours;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Clover;0;2135;Every 2-3 days
+Mini;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Taro;0;2136;Monthly
+Mini;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Philodendron;0;2137;Monthly
+Mini;Bright indirect light;Indoor;Summer;Monthly;Monthly;Yes;Yes;Pothos;0;2138;Monthly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cananga (Ylang-Ylang);0;2139;Weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Yarrow;0;2140;Weekly
+Large;Bright indirect light;Indoor;Spring;Monthly;1-2 times a year;Yes;Yes;Cucumbers;0;2141;Weekly
+Small;6+ hours;Indoor;All seasons;Never needed;1-2 times a year;No;No;Sweet Alyssum;0;2142;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;1-2 times a year;No;No;Peepal Tree;0;2143;Monthly
+Small;6+ hours;Indoor;All seasons;Never needed;1-2 times a year;No;No;Balloon Flower;0;2144;Monthly
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Red Maple;0;2145;Daily
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Zucchini;0;2146;Daily
+Mini;6+ hours;Indoor;Spring;Never needed;1-2 times a year;No;No;Tarragon;0;2147;Daily
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Strawberry Plant;0;2148;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Cabbage;0;2149;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;Spring;Monthly;1-2 times a year;Yes;No;Mimosa;0;2150;Every 2-3 days
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Galax;0;2151;Daily
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Ficus Microcarpa;0;2152;Daily
+Small;1-2 hours daily;Indoor;All seasons;Monthly;Never needed;Yes;Yes;Mint;0;2153;Daily
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Clove;0;2154;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Star Jasmine;0;2155;Every 2-3 days
+Small;6+ hours;Indoor;Summer;Monthly;Monthly;Yes;Yes;Pineapple Sage;0;2156;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Money Tree;0;2157;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Astilbe;0;2158;Every 2-3 days
+Small;1-2 hours daily;Indoor;Winter;Monthly;Monthly;Yes;Yes;Grape Vine;0;2159;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Zoysia Grass;0;2160;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Eggplant;0;2161;Every 2-3 days
+Mini;Bright indirect light;Indoor;All seasons;Never needed;Never needed;No;No;Snapdragon;0;2162;Every 2-3 days
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Mallow;0;2163;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Aquilegia (Columbine);0;2164;Monthly
+Medium;6+ hours;Indoor;Summer;Monthly;1-2 times a year;Yes;Yes;Sunflower;0;2165;Monthly
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;String of Dolphins;0;2166;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Daisy;0;2167;Every 2-3 days
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Heliopsis;0;2168;Every 2-3 days
+Small;Bright indirect light;Semi-outdoor;Summer;1-2 times a year;Monthly;Yes;No;Amaltas (Golden Shower);0;2169;Every 2-3 days
+Small;Bright indirect light;Semi-outdoor;Summer;1-2 times a year;Monthly;Yes;No;Mulberry;0;2170;Every 2-3 days
+Small;Bright indirect light;Semi-outdoor;Summer;1-2 times a year;Monthly;Yes;No;Gazania;0;2171;Every 2-3 days
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Calla Lily;0;2172;Daily
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;String of Bananas;0;2173;Daily
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Carrot Plant;0;2174;Daily
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Venus Fly Trap;0;2175;Daily
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Lotus Bamboo;0;2176;Daily
+Small;1-2 hours daily;Semi-outdoor;All seasons;Monthly;Monthly;Yes;Yes;Butternut Squash;0;2177;Daily
+Medium;Bright indirect light;Semi-outdoor;All seasons;Never needed;Monthly;Yes;No;Sweet Potato Vine;0;2178;Every 2-3 days
+Medium;Bright indirect light;Semi-outdoor;All seasons;Never needed;Monthly;Yes;No;Strawberry;0;2179;Every 2-3 days
+Medium;Bright indirect light;Semi-outdoor;All seasons;Never needed;Monthly;Yes;No;Nasturtium;0;2180;Every 2-3 days
+Large;6+ hours;Semi-outdoor;Winter;1-2 times a year;Monthly;No;No;Lucky Bamboo;0;2181;Monthly
+Large;6+ hours;Semi-outdoor;Winter;1-2 times a year;Monthly;No;No;Bromeliad;0;2182;Monthly
+Large;6+ hours;Semi-outdoor;Winter;1-2 times a year;Monthly;No;No;Cananga (Ylang-Ylang);0;2183;Monthly
+Large;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Ixia;0;2184;Daily
+Large;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Prayer Pepper;0;2185;Daily
+Large;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Hollyhock;0;2186;Daily
+Large;Bright indirect light;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Snowdrop;0;2187;Daily
+Large;Bright indirect light;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Morning Glory;0;2188;Daily
+Large;Bright indirect light;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Money Tree;0;2189;Daily
+Small;Bright indirect light;Outdoor;All seasons;Never needed;Never needed;No;Yes;Corn;0;2190;Daily
+Small;Bright indirect light;Outdoor;All seasons;Never needed;Never needed;No;Yes;Chinese Evergreen;0;2191;Daily
+Small;Bright indirect light;Outdoor;All seasons;Never needed;Never needed;No;Yes;Sedge;0;2192;Daily
+Small;1-2 hours daily;Indoor;Summer;1-2 times a year;Monthly;Yes;Yes;Bamboo Palm;0;2193;Daily
+Small;1-2 hours daily;Indoor;Summer;1-2 times a year;Monthly;Yes;Yes;Coleus;0;2194;Daily
+Small;1-2 hours daily;Indoor;Summer;1-2 times a year;Monthly;Yes;Yes;Watermelon Peperomia;0;2195;Daily
+Medium;1-2 hours daily;Outdoor;All seasons;1-2 times a year;Monthly;Yes;Yes;Henbane;0;2196;Daily
+Medium;1-2 hours daily;Outdoor;All seasons;1-2 times a year;Monthly;Yes;Yes;Kangaroo Paw Fern;0;2197;Daily
+Medium;1-2 hours daily;Outdoor;All seasons;1-2 times a year;Monthly;Yes;Yes;Acorn Squash;0;2198;Daily
+Small;1-2 hours daily;Semi-outdoor;Winter;Monthly;Monthly;Yes;Yes;Carrot Plant;0;2199;Daily
+Small;1-2 hours daily;Semi-outdoor;Winter;Monthly;Monthly;Yes;Yes;Strawberry Plant;0;2200;Daily
+Small;1-2 hours daily;Semi-outdoor;Winter;Monthly;Monthly;Yes;Yes;Yew;0;2201;Daily
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Iris;0;2202;Daily
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Marjoram;0;2203;Daily
+Mini;Can live in shade;Indoor;All seasons;Monthly;Monthly;Yes;Yes;Clove;0;2204;Daily
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Dracaena;0;2205;Every 2-3 days
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Bok Choy;0;2206;Every 2-3 days
+Small;1-2 hours daily;Outdoor;All seasons;Monthly;Monthly;Yes;Yes;Arum Lily;0;2207;Every 2-3 days
+Small;1-2 hours daily;Outdoor;Summer;1-2 times a year;Never needed;Yes;No;Wandering Jew;0;2208;Monthly

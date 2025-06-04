@@ -1,0 +1,101 @@
+area_size,sunlight_need,environment_type,climate_type,fertilizer_frequency,pesticide_frequency,has_pet,has_child,suggested_plant,user_feedback,watering_frequency
+Small,6+ hours,Outdoor,Spring,Monthly,1-2 times a year,No,No,Strawberry,0,Bi-weekly
+Large,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Butternut Squash,0,Bi-weekly
+Mini,6+ hours,Indoor,Summer,Monthly,1-2 times a year,Yes,Yes,Cockscomb (Celosia),0,Daily
+Mini,6+ hours,Semi-outdoor,Summer,1-2 times a year,1-2 times a year,No,No,Basil,0,Every 2-3 days
+Small,1-2 hours daily,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Holly,0,Weekly
+Mini,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Liatris,0,Bi-weekly
+Medium,Can live in shade,Indoor,All seasons,Monthly,Never needed,No,No,Parlor Palm,0,Bi-weekly
+Large,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Sweet William,0,Bi-weekly
+Small,Bright indirect light,Indoor,Winter,Monthly,Monthly,Yes,Yes,Ficus Benjamina,0,Bi-weekly
+Small,Bright indirect light,Indoor,All seasons,1-2 times a year,Never needed,No,No,String of Bananas,0,Bi-weekly
+Mini,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Nasturtium,0,Weekly
+Large,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Beetroot,0,Bi-weekly
+Mini,1-2 hours daily,Indoor,All seasons,Monthly,Never needed,Yes,Yes,Daisy Fleabane,0,Weekly
+Small,6+ hours,Indoor,Winter,Never needed,Monthly,No,No,Islander (Agave),0,Bi-weekly
+Medium,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Moringa,0,Bi-weekly
+Large,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Gerbera Daisy,0,Weekly
+Small,Bright indirect light,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Fern (Maidenhair),0,Bi-weekly
+Medium,Bright indirect light,Indoor,All seasons,Monthly,Never needed,No,No,Money Tree,0,Daily
+Large,6+ hours,Indoor,Summer,Never needed,Never needed,No,No,Dragonfruit Cactus,0,Bi-weekly
+Medium,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Cress,0,Monthly
+Large,1-2 hours daily,Indoor,Spring,Monthly,Monthly,Yes,Yes,Nandina (Heavenly Bamboo),0,Bi-weekly
+Medium,6+ hours,Outdoor,Spring,Monthly,Monthly,No,Yes,Rose,0,Monthly
+Large,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Crocus,0,Monthly
+Small,Bright indirect light,Indoor,All seasons,Monthly,Never needed,No,No,Lipstick Plant,0,Every 2-3 days
+Medium,1-2 hours daily,Indoor,Spring,Monthly,Never needed,Yes,Yes,Calla Lily,0,Every 2-3 days
+Medium,6+ hours,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Rudbeckia,0,Weekly
+Large,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Pineapple,0,Weekly
+Small,6+ hours,Indoor,Summer,Monthly,Monthly,Yes,Yes,Balsam,0,Bi-weekly
+Small,Bright indirect light,Indoor,Spring,Monthly,Monthly,Yes,Yes,Swedish Ivy,0,Weekly
+Large,6+ hours,Indoor,Spring,Monthly,Never needed,Yes,Yes,Verbena,0,Weekly
+Small,Bright indirect light,Indoor,Spring,Monthly,Never needed,No,No,Baby Tears,0,Monthly
+Small,6+ hours,Indoor,Spring,Monthly,Never needed,Yes,Yes,River Birch,0,Monthly
+Medium,Bright indirect light,Indoor,All seasons,1-2 times a year,Never needed,No,No,Staghorn Fern,0,Daily
+Mini,Bright indirect light,Indoor,All seasons,Monthly,Never needed,No,No,African Violet,0,Daily
+Small,6+ hours,Indoor,Summer,Never needed,1-2 times a year,No,No,Clover,0,Daily
+Large,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Veronica,0,Weekly
+Medium,Bright indirect light,Indoor,Summer,Monthly,Monthly,Yes,Yes,Neoregalia (Bromeliad),0,Monthly
+Large,Bright indirect light,Indoor,Summer,Never needed,Monthly,No,No,Orchid (Vanilla),0,Bi-weekly
+Large,6+ hours,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Cucumber,0,Every 2-3 days
+Mini,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Globe Thistle,0,Bi-weekly
+Small,6+ hours,Indoor,All seasons,Never needed,Never needed,No,No,Echeveria,0,Weekly
+Medium,6+ hours,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Protea,0,Bi-weekly
+Mini,1-2 hours daily,Indoor,Summer,Monthly,Never needed,Yes,Yes,Galangal,0,Monthly
+Large,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Fennel,0,Weekly
+Medium,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Goldenrods,0,Every 2-3 days
+Large,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Portulaca,0,Bi-weekly
+Medium,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Sweet Basil,0,Bi-weekly
+Mini,6+ hours,Indoor,Winter,Monthly,Never needed,Yes,Yes,Plumeria,0,Bi-weekly
+Large,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Ironwood,0,Bi-weekly
+Mini,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Blackcurrant,0,Every 2-3 days
+Small,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Pepper Plant,0,Bi-weekly
+Large,1-2 hours daily,Indoor,Summer,Monthly,Monthly,Yes,Yes,Pansy,0,Every 2-3 days
+Small,Bright indirect light,Indoor,All seasons,1-2 times a year,Never needed,No,No,String of Hearts,0,Every 2-3 days
+Medium,6+ hours,Indoor,All seasons,Monthly,Never needed,Yes,Yes,Radish,0,Monthly
+Large,1-2 hours daily,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Cestrum,0,Monthly
+Large,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Alyssum,0,Weekly
+Mini,6+ hours,Indoor,Summer,Monthly,1-2 times a year,Yes,Yes,Indian Cress,0,Monthly
+Small,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Succulent,0,Bi-weekly
+Large,6+ hours,Indoor,Summer,Monthly,1-2 times a year,Yes,Yes,Bok Choy,0,Bi-weekly
+Medium,Can live in shade,Indoor,All seasons,Monthly,Never needed,Yes,Yes,Peace Lily,0,Daily
+Small,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Hummingbird Sage,0,Bi-weekly
+Large,Bright indirect light,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Maranta (Prayer Plant),0,Monthly
+Mini,6+ hours,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Epazote,0,Bi-weekly
+Mini,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Purslane,0,Bi-weekly
+Mini,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Lemongrass,0,Weekly
+Small,6+ hours,Indoor,Summer,Monthly,Monthly,Yes,Yes,Hyacinth,0,Weekly
+Large,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Spider Flower,0,Bi-weekly
+Small,Bright indirect light,Indoor,All seasons,Monthly,Never needed,No,No,Watermelon Peperomia,0,Weekly
+Small,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Cucumbers,0,Monthly
+Medium,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Elderberry,0,Bi-weekly
+Large,6+ hours,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Mulberry,0,Bi-weekly
+Medium,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Date Palm (Khajoor),0,Bi-weekly
+Small,6+ hours,Indoor,Winter,Monthly,Monthly,Yes,Yes,Acalypha,0,Bi-weekly
+Small,Bright indirect light,Indoor,All seasons,Monthly,Never needed,No,No,Chinese Money Plant,0,Every 2-3 days
+Mini,Bright indirect light,Indoor,All seasons,Never needed,Never needed,No,No,Zebra Plant,0,Every 2-3 days
+Medium,6+ hours,Indoor,All seasons,Monthly,Never needed,Yes,Yes,Coneflower,0,Weekly
+Mini,6+ hours,Indoor,Winter,Never needed,1-2 times a year,No,No,Camelina,0,Monthly
+Large,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Kiwi Vine,0,Bi-weekly
+Large,6+ hours,Indoor,Spring,Monthly,Monthly,Yes,Yes,Chamomile,0,Weekly
+Large,Bright indirect light,Indoor,All seasons,Monthly,1-2 times a year,Yes,No,Umbrella Tree,0,Daily
+Mini,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Luffa,0,Bi-weekly
+Medium,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Chayote,0,Bi-weekly
+Small,Bright indirect light,Indoor,Spring,Monthly,Never needed,No,No,Maidenhair Fern,0,Daily
+Large,6+ hours,Indoor,Summer,Monthly,1-2 times a year,Yes,Yes,Hops Vine,0,Every 2-3 days
+Medium,6+ hours,Indoor,Spring,Monthly,Monthly,Yes,Yes,Tarragon,0,Weekly
+Large,6+ hours,Indoor,All seasons,Monthly,1-2 times a year,Yes,Yes,Sago Palm,0,Bi-weekly
+Large,1-2 hours daily,Indoor,Winter,Monthly,1-2 times a year,Yes,Yes,Coral Bells,0,Weekly
+Large,6+ hours,Indoor,Summer,Monthly,Monthly,Yes,Yes,Strawberry Plant,0,Bi-weekly
+Mini,6+ hours,Indoor,Spring,Monthly,Monthly,Yes,Yes,Litchi,0,Bi-weekly
+Small,Bright indirect light,Indoor,All seasons,1-2 times a year,Never needed,No,No,String of Turtles,0,Daily
+Large,6+ hours,Indoor,All seasons,Monthly,Monthly,Yes,Yes,Dianthus,0,Weekly
+Large,6+ hours,Indoor,Winter,Never needed,1-2 times a year,No,No,Soursop,0,Monthly
+Mini,6+ hours,Indoor,Winter,Monthly,Never needed,Yes,Yes,Echinacea,0,Bi-weekly
+Medium,6+ hours,Indoor,Winter,Monthly,Never needed,Yes,Yes,Redwood,0,Monthly
+Large,Bright indirect light,Indoor,Spring,Monthly,1-2 times a year,Yes,Yes,Wandering Jew,0,Weekly
+Mini,1-2 hours daily,Indoor,All seasons,Never needed,Never needed,No,No,Succulent Mix,0,Daily
+Small,Bright indirect light,Indoor,Summer,Monthly,Never needed,Yes,Yes,Orchid Cactus,0,Weekly
+Medium,6+ hours,Indoor,Summer,Monthly,Never needed,Yes,Yes,Cactus,0,Bi-weekly
+Small,6+ hours,Indoor,Spring,Monthly,Monthly,Yes,Yes,Carrot Plant,0,Bi-weekly
+Mini,6+ hours,Indoor,Spring,Monthly,Never needed,Yes,Yes,Grape Vine,0,Bi-weekly

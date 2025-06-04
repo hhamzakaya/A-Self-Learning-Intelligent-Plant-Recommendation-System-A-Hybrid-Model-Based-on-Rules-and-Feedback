@@ -1,0 +1,3493 @@
+{
+  "positive_rules": [
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "1-2 times a year"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Baby Tears",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "pesticide_frequency": "Monthly",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Cast Iron Plant",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Lipstick Plant",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Luffa",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Parlor Palm",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Echeveria",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Cucumber",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Spider Flower",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Jerusalem Artichoke",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "environment_type": "Indoor",
+        "watering_frequency": "Daily",
+        "has_child": "Yes",
+        "pesticide_frequency": "Monthly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hibiscus",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Snowdrop",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "Yes",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Prayer Pepper",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Bright indirect light",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Epazote",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Periwinkle",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_child": "No"
+      },
+      "suggested_plant": "Chestnut",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Sea Holly",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Laelia Orchid",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Knautia",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Aloe Vera",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Tobacco Plant",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Gul Mohar (Flame Tree)",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Nandina (Heavenly Bamboo)",
+      "feedback": 1,
+      "confidence": 0.08333333333333333,
+      "lift": 7.416666666666666,
+      "support": 0.011235955056179775
+    },
+    {
+      "conditions": {
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Ligustrum",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Galax",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "area_size": "Large"
+      },
+      "suggested_plant": "Peepal Tree (Bodhi Tree)",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Can live in shade"
+      },
+      "suggested_plant": "Camelina",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "environment_type": "Semi-outdoor",
+        "area_size": "Large",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Lacandonian",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Fig Tree",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "has_child": "Yes",
+        "watering_frequency": "Weekly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Apple Tree",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Monthly",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Ivy",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "climate_type": "Winter",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Heliopsis",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Medium",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Sedum",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_pet": "Yes",
+        "has_child": "Yes",
+        "area_size": "Mini",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Mango",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Tulip",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Daily",
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Small"
+      },
+      "suggested_plant": "Themeda (Kangaroo Grass)",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "area_size": "Large",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "area_size": "Small",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Yew",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "1-2 times a year",
+        "area_size": "Mini",
+        "climate_type": "Spring",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Indian Grass",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Weekly",
+        "area_size": "Large",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Chamomile",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Large",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Nasturtium",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "watering_frequency": "Bi-weekly",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Orchid Cactus",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Water Lily",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "fertilizer_frequency": "1-2 times a year"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "pesticide_frequency": "1-2 times a year",
+        "watering_frequency": "Daily",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Peepal Tree",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "watering_frequency": "Weekly"
+      },
+      "suggested_plant": "Liatris",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "area_size": "Mini",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Lucky Bamboo",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Gerbera Daisy",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Mini",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Date Palm (Khajoor)",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "Yes",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Clover",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium",
+        "climate_type": "Summer",
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Rose",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "area_size": "Large"
+      },
+      "suggested_plant": "Jasmine",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "watering_frequency": "Weekly",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Venus Fly Trap",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter",
+        "environment_type": "Indoor",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Balsam",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Radish",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_pet": "No",
+        "has_child": "No",
+        "area_size": "Small"
+      },
+      "suggested_plant": "Spider Plant",
+      "feedback": 1
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "area_size": "Small"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 1
+    }
+  ],
+  "negative_rules": [
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Apple Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Pothos (Devil's Ivy)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sea Holly",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Medium",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Sea Holly",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sea Holly",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Medium",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Sea Holly",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "area_size": "Medium",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "climate_type": "Spring",
+        "area_size": "Medium",
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "climate_type": "Spring",
+        "pesticide_frequency": "Monthly",
+        "has_child": "Yes",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "climate_type": "Spring",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "climate_type": "Spring",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "climate_type": "Spring",
+        "pesticide_frequency": "Monthly",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Stevia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Pine",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "environment_type": "Outdoor",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "area_size": "Small",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "has_child": "Yes",
+        "area_size": "Small",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "Yes",
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "has_child": "Yes",
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Barrel Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "climate_type": "Spring",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "climate_type": "Spring"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "sunlight_need": "1-2 hours daily",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "sunlight_need": "1-2 hours daily",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "climate_type": "Spring",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "climate_type": "Spring",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "climate_type": "Spring",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "climate_type": "Spring"
+      },
+      "suggested_plant": "Snake Plant (Sansevieria)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "watering_frequency": "Daily",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_pet": "Yes",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "watering_frequency": "Daily",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "watering_frequency": "Daily",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "watering_frequency": "Daily",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "watering_frequency": "Daily",
+        "has_pet": "Yes",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_pet": "Yes",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "watering_frequency": "Daily",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Monthly",
+        "has_child": "Yes",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor",
+        "has_child": "Yes",
+        "watering_frequency": "Daily",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Olive Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "Yes",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large",
+        "climate_type": "Summer",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Large"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "climate_type": "Spring",
+        "area_size": "Large",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Every 2-3 days",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Large",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Every 2-3 days",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Large",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Large"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "climate_type": "Spring",
+        "area_size": "Large"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "climate_type": "Spring",
+        "area_size": "Large",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days",
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Large",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Semi-outdoor",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Semi-outdoor",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Semi-outdoor",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "River Birch",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Bright indirect light",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Bright indirect light",
+        "pesticide_frequency": "Monthly"
+      },
+      "suggested_plant": "Polka Dot Begonia",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Baby Tears",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Baby Tears",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Baby Tears",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "has_child": "Yes",
+        "sunlight_need": "1-2 hours daily",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Teak",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Buckwheat",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Outdoor"
+      },
+      "suggested_plant": "Chinese Lantern Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Foxglove",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Orchid Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "area_size": "Small"
+      },
+      "suggested_plant": "Morning Glory",
+      "feedback": 0,
+      "confidence": 0.3333333333333333,
+      "lift": 24.0,
+      "support": 0.013888888888888888
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "sunlight_need": "Bright indirect light",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "area_size": "Medium",
+        "has_pet": "No",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "Bright indirect light",
+        "environment_type": "Semi-outdoor",
+        "has_child": "No",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "area_size": "Medium",
+        "has_pet": "No",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "1-2 times a year",
+        "climate_type": "Spring",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Rudbeckia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "environment_type": "Semi-outdoor",
+        "has_child": "No",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Grape Vine",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "Bright indirect light",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "sunlight_need": "Bright indirect light",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "area_size": "Medium",
+        "sunlight_need": "1-2 hours daily",
+        "has_pet": "Yes",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Cucumbers",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "Bright indirect light",
+        "climate_type": "Summer"
+      },
+      "suggested_plant": "Dieffenbachia",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 71.0,
+      "support": 0.014084507042253521
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "climate_type": "Spring",
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Large"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0,
+      "confidence": 0.39999999999999997,
+      "lift": 28.8,
+      "support": 0.013888888888888888
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "climate_type": "Spring",
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Peperomia",
+      "feedback": 0,
+      "confidence": 0.39999999999999997,
+      "lift": 28.8,
+      "support": 0.013888888888888888
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "1-2 times a year"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "watering_frequency": "Weekly",
+        "area_size": "Medium",
+        "has_child": "No",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "watering_frequency": "Weekly",
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "1-2 times a year",
+        "area_size": "Medium",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "1-2 times a year",
+        "area_size": "Medium",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Medium",
+        "has_child": "No",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Medium",
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Medium",
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Medium",
+        "fertilizer_frequency": "1-2 times a year",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Medium",
+        "has_child": "No",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "1-2 times a year",
+        "has_child": "No",
+        "climate_type": "Winter"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Weekly",
+        "area_size": "Medium",
+        "fertilizer_frequency": "1-2 times a year",
+        "climate_type": "Winter",
+        "has_child": "No"
+      },
+      "suggested_plant": "Basil",
+      "feedback": 0,
+      "confidence": 1.0,
+      "lift": 4.0,
+      "support": 0.25
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Brachychiton (Bottle Tree)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Brachychiton (Bottle Tree)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "No",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Brachychiton (Bottle Tree)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Brachychiton (Bottle Tree)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Brachychiton (Bottle Tree)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Mini",
+        "has_pet": "Yes",
+        "has_child": "Yes",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Mini",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Mini",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Mini",
+        "has_pet": "Yes",
+        "sunlight_need": "1-2 hours daily",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "watering_frequency": "Every 2-3 days",
+        "area_size": "Mini",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Mini",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "has_child": "Yes",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Wandering Jew",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "Yes",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "climate_type": "Spring"
+      },
+      "suggested_plant": "Calendula",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "area_size": "Mini",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Maidenhair Fern",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_pet": "Yes",
+        "area_size": "Mini",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Maidenhair Fern",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_child": "Yes",
+        "area_size": "Mini",
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Maidenhair Fern",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "area_size": "Mini",
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Maidenhair Fern",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Summer",
+        "has_child": "Yes",
+        "area_size": "Mini",
+        "environment_type": "Indoor",
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Maidenhair Fern",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Medium",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "has_child": "Yes",
+        "sunlight_need": "6+ hours",
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Monthly",
+        "has_pet": "Yes",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium",
+        "sunlight_need": "6+ hours",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "climate_type": "All seasons",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "has_child": "Yes",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Money Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Medium",
+        "pesticide_frequency": "Never needed",
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "sunlight_need": "6+ hours",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Medium",
+        "watering_frequency": "Monthly"
+      },
+      "suggested_plant": "Zephyranthes (Rain Lily)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "area_size": "Mini",
+        "has_pet": "No",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Never needed",
+        "has_pet": "No",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "climate_type": "All seasons",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "area_size": "Mini",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "fertilizer_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "has_child": "No",
+        "area_size": "Mini",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "has_child": "No",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "fertilizer_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Never needed",
+        "sunlight_need": "1-2 hours daily"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "sunlight_need": "1-2 hours daily",
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Bloodroot",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "has_pet": "No",
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "No",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Every 2-3 days",
+        "environment_type": "Semi-outdoor",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "has_pet": "No",
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Every 2-3 days",
+        "environment_type": "Semi-outdoor",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "has_pet": "No",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "environment_type": "Semi-outdoor",
+        "watering_frequency": "Every 2-3 days"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Every 2-3 days",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Every 2-3 days",
+        "environment_type": "Semi-outdoor",
+        "has_child": "No",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "Spring",
+        "watering_frequency": "Every 2-3 days",
+        "environment_type": "Semi-outdoor",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Guava",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "area_size": "Small"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "climate_type": "Spring"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "climate_type": "Spring",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "pesticide_frequency": "Never needed",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_pet": "No"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Small",
+        "climate_type": "Spring"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "environment_type": "Semi-outdoor"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "environment_type": "Semi-outdoor",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "area_size": "Small",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Small",
+        "has_child": "No",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly",
+        "has_child": "No"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "1-2 hours daily",
+        "has_child": "No",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "climate_type": "Spring",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "sunlight_need": "1-2 hours daily",
+        "fertilizer_frequency": "Monthly",
+        "pesticide_frequency": "Never needed",
+        "area_size": "Small"
+      },
+      "suggested_plant": "Succulents (General)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_pet": "Yes",
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly",
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes",
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "environment_type": "Indoor",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "Yes",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "has_pet": "Yes",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Swedish Ivy",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "climate_type": "All seasons",
+        "area_size": "Mini",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Swedish Ivy",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "Yes",
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "sunlight_need": "6+ hours",
+        "watering_frequency": "Bi-weekly",
+        "area_size": "Medium"
+      },
+      "suggested_plant": "Sedge",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor",
+        "area_size": "Mini"
+      },
+      "suggested_plant": "Orchid Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Orchid Cactus",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Small",
+        "has_child": "Yes"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "area_size": "Small",
+        "has_child": "Yes",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "area_size": "Small",
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "environment_type": "Indoor",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Oregano",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "has_child": "Yes",
+        "climate_type": "All seasons",
+        "watering_frequency": "Weekly"
+      },
+      "suggested_plant": "Japanese Maple",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "Yes",
+        "watering_frequency": "Weekly",
+        "environment_type": "Indoor",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Japanese Maple",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "climate_type": "All seasons",
+        "environment_type": "Indoor",
+        "has_child": "No"
+      },
+      "suggested_plant": "Jade Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "environment_type": "Indoor",
+        "has_pet": "No",
+        "has_child": "No",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Jade Plant",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "watering_frequency": "Weekly",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Japanese Maple",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "watering_frequency": "Weekly"
+      },
+      "suggested_plant": "Japanese Maple",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "environment_type": "Indoor",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "climate_type": "All seasons",
+        "sunlight_need": "6+ hours",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "climate_type": "All seasons",
+        "sunlight_need": "6+ hours",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "environment_type": "Indoor",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "area_size": "Small",
+        "has_child": "Yes",
+        "fertilizer_frequency": "Monthly",
+        "sunlight_need": "6+ hours",
+        "climate_type": "All seasons",
+        "has_pet": "Yes"
+      },
+      "suggested_plant": "Hummingbird Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly",
+        "pesticide_frequency": "Monthly",
+        "area_size": "Small",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Wisteria",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "area_size": "Small",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Wisteria",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "sunlight_need": "Bright indirect light",
+        "has_pet": "No",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Fern (Maidenhair)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_pet": "No",
+        "watering_frequency": "Bi-weekly",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Fern (Maidenhair)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "No",
+        "watering_frequency": "Daily",
+        "climate_type": "All seasons"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "climate_type": "All seasons",
+        "watering_frequency": "Daily",
+        "sunlight_need": "Bright indirect light",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "environment_type": "Indoor",
+        "climate_type": "All seasons",
+        "watering_frequency": "Daily",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Never needed",
+        "has_child": "No",
+        "watering_frequency": "Bi-weekly",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Fern (Maidenhair)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_child": "No",
+        "environment_type": "Indoor",
+        "climate_type": "All seasons",
+        "watering_frequency": "Daily",
+        "sunlight_need": "Bright indirect light",
+        "fertilizer_frequency": "Monthly"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "No",
+        "watering_frequency": "Daily"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "has_child": "No",
+        "watering_frequency": "Bi-weekly",
+        "sunlight_need": "Bright indirect light"
+      },
+      "suggested_plant": "Fern (Maidenhair)",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Monthly",
+        "has_child": "No",
+        "watering_frequency": "Daily",
+        "environment_type": "Indoor"
+      },
+      "suggested_plant": "Cocoa Tree",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "has_pet": "No",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "Never needed",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "has_pet": "No",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "pesticide_frequency": "Monthly",
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "No",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "watering_frequency": "Bi-weekly",
+        "has_pet": "No",
+        "fertilizer_frequency": "Never needed"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "fertilizer_frequency": "Never needed",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    },
+    {
+      "conditions": {
+        "has_pet": "No",
+        "watering_frequency": "Bi-weekly"
+      },
+      "suggested_plant": "Russian Sage",
+      "feedback": 0
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+[
+  {
+    "conditions": {
+      "climate_type": [
+        "Summer"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "has_child": [
+        "No"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Spider Plant",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.5,
+    "lift": 30.5
+  },
+  {
+    "conditions": {
+      "climate_type": [
+        "Summer"
+      ],
+      "has_child": [
+        "No"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Spider Plant",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.5,
+    "lift": 30.5
+  },
+  {
+    "conditions": {
+      "climate_type": [
+        "Summer"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Spider Plant",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.5,
+    "lift": 30.5
+  },
+  {
+    "conditions": {
+      "climate_type": [
+        "Summer"
+      ],
+      "has_child": [
+        "No"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Spider Plant",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.5,
+    "lift": 30.5
+  },
+  {
+    "conditions": {
+      "climate_type": [
+        "Summer"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Spider Plant",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.5,
+    "lift": 30.5
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "Yes"
+      ],
+      "climate_type": [
+        "Spring"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "climate_type": [
+        "Spring"
+      ],
+      "has_child": [
+        "Yes"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "environment_type": [
+        "Indoor"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "climate_type": [
+        "Spring"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_child": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "environment_type": [
+        "Indoor"
+      ],
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "fertilizer_frequency": [
+        "Monthly"
+      ],
+      "area_size": [
+        "Small"
+      ],
+      "has_child": [
+        "Yes"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "Yes"
+      ],
+      "fertilizer_frequency": [
+        "Monthly"
+      ],
+      "area_size": [
+        "Small"
+      ],
+      "climate_type": [
+        "Spring"
+      ],
+      "has_child": [
+        "Yes"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "fertilizer_frequency": [
+        "Monthly"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "has_child": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "fertilizer_frequency": [
+        "Monthly"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "Yes"
+      ],
+      "climate_type": [
+        "Spring"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "Yes"
+      ],
+      "climate_type": [
+        "Spring"
+      ],
+      "area_size": [
+        "Small"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "area_size": [
+        "Small"
+      ],
+      "has_pet": [
+        "Yes"
+      ],
+      "has_child": [
+        "Yes"
+      ],
+      "pesticide_frequency": [
+        "1-2 times a year"
+      ]
+    },
+    "suggested_plant": "Hummingbird Sage",
+    "feedback": 1,
+    "support": 0.01639344262295082,
+    "confidence": 0.2857142857142857,
+    "lift": 17.428571428571427
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "pesticide_frequency": [
+        "Monthly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.6666666666666666,
+    "lift": 42.666666666666664
+  },
+  {
+    "conditions": {
+      "watering_frequency": [
+        "Bi-weekly"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "fertilizer_frequency": [
+        "Never needed"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "watering_frequency": [
+        "Bi-weekly"
+      ],
+      "fertilizer_frequency": [
+        "Never needed"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "fertilizer_frequency": [
+        "Never needed"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "fertilizer_frequency": [
+        "Never needed"
+      ],
+      "has_pet": [
+        "No"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  },
+  {
+    "conditions": {
+      "fertilizer_frequency": [
+        "Never needed"
+      ],
+      "watering_frequency": [
+        "Bi-weekly"
+      ]
+    },
+    "suggested_plant": "Russian Sage",
+    "feedback": 0,
+    "support": 0.015625,
+    "confidence": 0.5,
+    "lift": 32.0
+  }
+]
